@@ -1,0 +1,24 @@
+{
+  "name": "php_login_register_appzstory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markky2117/php_login_register_appzstory.git"
+  },
+  "author": "Pruettipong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markky2117/php_login_register_appzstory/issues"
+  },
+  "homepage": "https://github.com/markky2117/php_login_register_appzstory#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
